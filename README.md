@@ -64,9 +64,9 @@ ASHOK KUMAR
   - [x] Sprint 1
   - [x] Sprint 2
   - [x] Sprint 3
- - [x] Sprint 4
+  - [x] Sprint 4
   
   
 - [x] FINAL DELIVERABLES
-  - [x] Video Link
   - [x] Project Report
+  - [x] Demo Video Link
